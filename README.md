@@ -3,7 +3,7 @@
 
 ## MAPPING REGISTER 4XXXX
 
-'- +0		'CURPOS MM
+-  +0		'CURPOS MM
 - +1		'Command  (0: noCommand, 1:Reset, 2:Stop, 3:Open, 4:Close)
 - +2		'MINPOS MM 
 - +3		'MAXPOS MM
